@@ -1,4 +1,3 @@
-// Abiha Ehtisham, Cms 528907
 #include <iostream>
 #include <string>
 using namespace std;
