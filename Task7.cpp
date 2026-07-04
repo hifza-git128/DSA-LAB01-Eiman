@@ -1,4 +1,3 @@
-// Abiha Ehtisham, CMS:528907
 #include <iostream>
 #include <vector>
 using namespace std;
